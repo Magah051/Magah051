@@ -43,15 +43,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API" target="_blank"> 
   <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-canvas-logo-netgoblin-deviantart-20.png" alt="HTML5 Canvas" height="33"/> 
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img width="<img width="32px" " src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img width="<img width="32px" " src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://vuejs.org/" target="_blank"> 
-  <img src="https://vuejs.org/images/logo.png" alt="Vue.js" width="40" height="40"/> 
-</a>
-<a href="https://angular.io/" target="_blank"> 
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/> 
-</a>
- </p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img width="<img width="32px" " src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="33" height="33"/> </a> 
+</p>
 
 ## Outras Tecnologias
 
