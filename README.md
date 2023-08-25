@@ -18,8 +18,9 @@
 <a href="https://discordapp.com/users/676156690395037713/"><img align="left" alt="zF4ke | Discord" width="32px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg"></a>
 <a href="https://www.youtube.com/channel/UCJy61YshUt3CIU7OSDKfudA"><img align="left" alt="zF4ke | YouTube" width="32px" src="https://github.com/zF4ke/zF4ke/blob/master/youtube_social_icon_red.png"></a>
 <a href="https://twitter.com/zF4ked"><img align="left" alt="zF4ked | Twitter" width="32px" src="https://github.com/zF4ke/zF4ke/blob/master/twitter_logo_blue.svg"></a>
-<a href="https://linkedin.com/in/zF4ke"><img align="left" alt="zF4ke | LinkedIn" width="32px" src="https://github.com/zF4ke/zF4ke/blob/master/lI-In-bug.png"></a>
 -->
+<a href="https://www.linkedin.com/in/jos%C3%A9-de-sousa-magalh%C3%A3es-9aa00a289/"><img align="left" alt="Magah051 | LinkedIn" width="32px" src="https://github.com/zF4ke/zF4ke/blob/master/lI-In-bug.png"></a>
+
 <br />
 
 ## Tecnologias Principais
