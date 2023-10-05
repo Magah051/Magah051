@@ -1,5 +1,5 @@
 <h3 align="center"> Olá! Sou José Magalhães - <a href="https://discordapp.com/users/josemagalhaes">josemagalhaes</a> 😃<h3>
-<h3 align="center"> Portfólio - <a href="[https://discordapp.com/users/josemagalhaes](https://josemagalhaes.notion.site/josemagalhaes/Jos-Magalh-es-Magah051-cf9b7e2f59aa45349a3a8b63cb02a6d3)">Game Designer / Game Developer</a> 💼<h3>
+<h3 align="center"> Portfólio - <a href="https://www.notion.so/josemagalhaes/Jos-Magalh-es-Magah051-cf9b7e2f59aa45349a3a8b63cb02a6d3" target="_blank">Game Designer / Game Developer</a> 💼<h3>
 <p align="center">
   <!--
  <a href="https://discordapp.com/users/676156690395037713/" target="_blank"><img alt="Discord" src="https://img.shields.io/website?label=zF4ke%238556&style=for-the-badge&logo=discord&url=https://discordapp.com/users/676156690395037713/"></a></p>
