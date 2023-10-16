@@ -23,42 +23,27 @@
 <a href="mailto:joses.magalhaes12@gmail.com"><img align="left" alt="Magah051 | Gmail" width="38px" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png"></a>
 <br />
 
-## Tecnologias Principais
-<p align="left"> 
-<a href="https://unity.com/" target="_blank"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/1200px-Unity_Technologies_logo.svg.png" alt="Unity" width="100" height="40"/> 
-</a>&nbsp
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" alt="C#" width="35" height="40"/> 
-</a>
-<a href="https://www.aseprite.org/" target="_blank"> 
-  <img src="https://share.natebeaty.com//aseprite-no-border/aseprite-no-border.png" alt="Aseprite" width="40" height="40"/> 
-</a>
-</p>
+## Tecnologias 
+<img height="25" src="https://img.shields.io/badge/Vercel-181717.svg?style=for-the-badge&logo=Vercel&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/Heroku-430098.svg?&style=for-the-badge&logo=Heroku&logoColor=white"></img>
+<br>
+<img height="25" src="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></img> 
+<img height="25" src="https://img.shields.io/badge/javascript-ffff00.svg?&style=for-the-badge&logo=javascript&logoColor=000"></img>
+<img height="25" src="https://img.shields.io/badge/nodejs-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/react-000033.svg?&style=for-the-badge&logo=react&logoColor=white"> </img>
+<br>
+<img height="25" src="https://img.shields.io/badge/material-33adff.svg?&style=for-the-badge&logo=material-ui&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/bootstrap-33adff.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"></img>
+<br>
+<img height="25" src="https://img.shields.io/badge/postgresql-336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"></img>
+<br>
+<img height="25" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"></img>
 
-## Tecnologias Secundárias
-
-<p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank"> <img width="<img width="32px" " src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img width="<img width="32px" " src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API" target="_blank"> 
-  <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-canvas-logo-netgoblin-deviantart-20.png" alt="HTML5 Canvas" height="33"/> 
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img width="<img width="32px" " src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="33" height="33"/> </a> 
-</p>
-
-## Outras Tecnologias
-
-<p align="left"> 
-<a href="https://www.python.org/" target="_blank"> <img width="<img width="32px" " src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.pygame.org/" target="_blank"> 
-<img src="https://www.pygame.org/images/logo_lofi.png" alt="Pygame" width="100" height="40"/> 
-</a>
-
-
-
-
-</p>
 
 <br>
 
