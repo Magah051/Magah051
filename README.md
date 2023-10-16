@@ -24,25 +24,35 @@
 <br />
 
 ## Tecnologias 
-<img height="25" src="https://img.shields.io/badge/Vercel-181717.svg?style=for-the-badge&logo=Vercel&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/Heroku-430098.svg?&style=for-the-badge&logo=Heroku&logoColor=white"></img>
-<br>
 <img height="25" src="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></img> 
 <img height="25" src="https://img.shields.io/badge/javascript-ffff00.svg?&style=for-the-badge&logo=javascript&logoColor=000"></img>
 <img height="25" src="https://img.shields.io/badge/nodejs-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/react-000033.svg?&style=for-the-badge&logo=react&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/vuejs-%2335495e.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white"> </img>
 <br>
 <img height="25" src="https://img.shields.io/badge/material-33adff.svg?&style=for-the-badge&logo=material-ui&logoColor=white"> </img>
 <img height="25" src="https://img.shields.io/badge/bootstrap-33adff.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"> </img>
+<br>
 <img height="25" src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"> </img>
-<img height="25" src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=python&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=python&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=python&logoColor=white"> </img>
 <br>
 <img height="25" src="https://img.shields.io/badge/postgresql-336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?&style=for-the-badge&logo=MongoDB&logoColor=white"></img>
+<br>
+<img height="25" src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=Docker&logoColor=white"></img>
 <br>
 <img height="25" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white"></img>
 
 
 <br>
