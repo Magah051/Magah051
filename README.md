@@ -1,5 +1,4 @@
 <h3 align="center"> Olá! Sou José Magalhães - <a href="https://discordapp.com/users/josemagalhaes">josemagalhaes</a> 😃<h3>
-<h3 align="center"> Portfólio - <a href="https://josemagalhaes.notion.site/josemagalhaes/Jos-Magalh-es-Magah051-cf9b7e2f59aa45349a3a8b63cb02a6d3" target="_blank">Game Designer / Game Developer</a> 💼<h3>
 <p align="center">
   <!--
  <a href="https://discordapp.com/users/676156690395037713/" target="_blank"><img alt="Discord" src="https://img.shields.io/website?label=zF4ke%238556&style=for-the-badge&logo=discord&url=https://discordapp.com/users/676156690395037713/"></a></p>
@@ -7,9 +6,9 @@
 
 ## Sobre mim
 
-- 🙋‍♂️ Sou Programador C# e Game Design/Developer
-- 📚 Bacharelado em Sistemas de Informação | Bacharelado em Design de Animação | Tecnólogo em Design de Games
-- 🚩 Objetivo: Sempre criar algo incrível
+- 🙋‍♂️ Professor de Programação | Produtor de Material Didático | Desenvolvedor Web | Desenvolvedor Python | Especialista Hard | Especialista em Inteligência Artificial | Escritor | Estudante de Game Development/Design.
+- 📚 Bacharelado em Sistemas de Informação | Especialista em Tecnologias Aplicadas à Sala de Aula.
+- 🚩 Apender mais a cada dia.
 - 🧩 Hobbys: Jogar Vídeo Game | Ler e Escrever | Andar de Skate | Tocar Piano e Violão 🧐
 - 🎭 Artista: Também sou Escritor, Roteirista, Diretor, Dramaturgo e Poeta 
 
@@ -20,8 +19,8 @@
 <a href="https://www.youtube.com/channel/UCJy61YshUt3CIU7OSDKfudA"><img align="left" alt="zF4ke | YouTube" width="32px" src="https://github.com/zF4ke/zF4ke/blob/master/youtube_social_icon_red.png"></a>
 <a href="https://twitter.com/zF4ked"><img align="left" alt="zF4ked | Twitter" width="32px" src="https://github.com/zF4ke/zF4ke/blob/master/twitter_logo_blue.svg"></a>
 -->
-<a href="https://www.linkedin.com/in/jos%C3%A9-de-sousa-magalh%C3%A3es-9aa00a289/"><img align="left" alt="Magah051 | LinkedIn" width="32px" src="https://github.com/zF4ke/zF4ke/blob/master/lI-In-bug.png"></a>
-
+<a href="https://www.linkedin.com/in/jos%C3%A9-de-sousa-magalh%C3%A3es-9aa00a289/"><img align="left" alt="Magah051 | LinkedIn" width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
+<a href="mailto:joses.magalhaes12@gmail.com"><img align="left" alt="Magah051 | Gmail" width="38px" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png"></a>
 <br />
 
 ## Tecnologias Principais
