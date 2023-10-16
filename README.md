@@ -53,4 +53,5 @@
 <br>
 <img height="25" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white"></img>
- 
+
+<hr>
