@@ -54,4 +54,9 @@
 <img height="25" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white"></img>
 
-<hr>
+## 
+<div align="left"> <!-- trocar para "center" quando as curiosidades estiverem ativadas -->
+  <a href="https://github.com/Magah051">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Magah051&show_icons=true&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magah051&layout=compact&langs_count=7&theme=dracula"/>
+</div>
