@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-- 🙋‍♂️ Professor de Programação | Produtor de Material Didático | Desenvolvedor Web | Desenvolvedor Python | Especialista Hard | Especialista em Inteligência Artificial | Escritor | Estudante de Game Development/Design.
+- 🙋‍♂️ Professor de Programação | Produtor de Material Didático | Desenvolvedor Web | Desenvolvedor Python | Especialista Hard | Especialista em Inteligência Artificial | Escritor | Game Development/Design.
 - 📚 Bacharelado em Sistemas de Informação | Especialista em Tecnologias Aplicadas à Sala de Aula.
 - 🚩 Apender mais a cada dia.
 - 🧩 Hobbys: Jogar Vídeo Game | Ler e Escrever | Andar de Skate | Tocar Piano e Violão 🧐
