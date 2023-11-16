@@ -63,7 +63,16 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Magah051&show_icons=true&theme=radical"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magah051&layout=compact&langs_count=7&theme=dracula"/>
   <img height="150em"  src="https://github-readme-streak-stats.herokuapp.com/?user=Magah051&layout=compact&langs_count=7&theme=dracula"/>
-   
-
-
 </div>
+<br>
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=Magah051&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
