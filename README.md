@@ -1,5 +1,8 @@
 <h3 align="center"> Olá! Sou José Magalhães - <a href="https://discordapp.com/users/josemagalhaes">josemagalhaes</a> 😃<h3>
-<p align="center">
+
+ <img src="https://github.com/Magah051/Magah051/assets/31749933/f103a784-a97d-40ca-8021-876d1441c176" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> 
+
+<p align="left">
   <!--
  <a href="https://discordapp.com/users/676156690395037713/" target="_blank"><img alt="Discord" src="https://img.shields.io/website?label=zF4ke%238556&style=for-the-badge&logo=discord&url=https://discordapp.com/users/676156690395037713/"></a></p>
  -->
