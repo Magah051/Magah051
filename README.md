@@ -60,6 +60,10 @@
 ## 
 <div align="left"> <!-- trocar para "center" quando as curiosidades estiverem ativadas -->
   <a href="https://github.com/Magah051">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Magah051&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magah051&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Magah051&show_icons=true&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magah051&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em"  src="https://github-readme-streak-stats.herokuapp.com/?user=Magah051&layout=compact&langs_count=7&theme=dracula"/>
+   
+
+
 </div>
