@@ -9,8 +9,8 @@
 
 ## Sobre mim
 
-- 🙋‍♂️ Professor de Programação | Produtor de Material Didático | Desenvolvedor Web | Desenvolvedor Python | Especialista Hard | Especialista em Inteligência Artificial | Escritor | Game Development/Design.
-- 📚 Bacharelado em Sistemas de Informação | Especialista em Tecnologias Aplicadas à Sala de Aula.
+- 🙋‍♂️ Unity/C# Developer | Desenvolvedor Front-End | Game Designer | Game Developer.
+- 📚 Bacharelado em Sistemas de Informação | Especialista em Desenvolvimento de Jogos.
 - 🚩 Apender mais a cada dia.
 - 🧩 Hobbys: Jogar Vídeo Game | Ler e Escrever | Andar de Skate | Tocar Piano e Violão 🧐
 - 🎭 Artista: Também sou Escritor, Roteirista, Diretor, Dramaturgo e Poeta 
