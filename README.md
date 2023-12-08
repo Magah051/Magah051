@@ -1,6 +1,6 @@
 <h3 align="center"> Olá! Sou José Magalhães - <a href="https://discordapp.com/users/josemagalhaes">josemagalhaes</a> 😃<h3>
 
- <img src="https://github.com/Magah051/Magah051/assets/31749933/cd002d05-78c0-4391-bfef-abead9c4fd58" alt="ilustração de um computador" min-width="400px" max-width="350px" width="350px" align="right"> 
+ <img src="https://github.com/Magah051/Magah051/assets/31749933/00b15004-6628-45e7-ac9a-84f2364eae61" alt="ilustração de um computador" min-width="400px" max-width="350px" width="350px" align="right"> 
 
 <p align="left">
   <!--
