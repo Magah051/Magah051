@@ -1,5 +1,5 @@
-<h1 align="center">José Magalhães</h1>
-<p align="center"><em>Unity/C# Developer | Desenvolvedor Front-End | Game Designer | Game Developer | Escritor | Diretor | Roteirista | Dramaturgo | Poeta</em></p>
+<h1 align="center">José de Sousa Magalhães</h1>
+<p align="center"><em>Eu crio meu mundo.</em></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jose-de-sousa-magalhaes/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
