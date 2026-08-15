@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="./assets/banner.png" alt="José Magalhães — Unity / C# Game Developer" width="100%">
-</div>
-
-<br>
-
 <h1 align="center">José Magalhães</h1>
 <p align="center"><em>Unity/C# Developer | Desenvolvedor Front-End | Game Designer | Game Developer | Escritor | Diretor | Roteirista | Dramaturgo | Poeta</em></p>
 
