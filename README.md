@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="José Magalhães — Unity / C# Game Developer" width="100%">
+  <img src="./assets/banner.png" alt="José Magalhães — Unity / C# Game Developer" width="100%">
 </div>
 
 <br>
@@ -28,17 +28,17 @@ Também escreve: roteiro, dramaturgia e poesia entram no processo criativo dos j
 
 ## GitHub Stats
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Magah051&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats de Magah051">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magah051&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas">
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Magah051&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Magah051&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas">
+</p>
 
 ---
 
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,unreal,godot,blender,dotnet,html,css,js,ts,react,angular,vue,tailwind,python,nodejs,postgres,mysql,mongodb,firebase,git,figma" alt="Stack: Unity, C#, Unreal, Godot, Blender, .NET, HTML, CSS, JavaScript, TypeScript, React, Angular, Vue, Tailwind, Python, Node.js, PostgreSQL, MySQL, MongoDB, Firebase, Git, Figma">
+  <img src="https://skillicons.dev/icons?i=unity,cs,unreal,godot,blender,dotnet,html,css,js,ts,react,angular,vue,tailwind,python,nodejs,postgres,mysql,mongodb,firebase,git,figma" alt="Stack">
 </p>
 
 <p align="center">
@@ -51,66 +51,6 @@ Também escreve: roteiro, dramaturgia e poesia entram no processo criativo dos j
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000" alt="Firebase">
 </p>
-
----
-
-## Cases
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>The Door</h3>
-      <p>Horror 3D em Unity. Ajude Noah Bennet a sair do labirinto — um único hit do Executioner elimina o jogador. Foco em atmosphere, navegação e tensão.</p>
-      <p>
-        <a href="https://github.com/Magah051/the_door_3d_project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Magah051&repo=the_door_3d_project&theme=tokyonight&hide_border=true" alt="The Door"></a>
-      </p>
-      <p><a href="https://josemagalhaes.itch.io/the-door">Jogar no itch.io →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Ealdred's Saga</h3>
-      <p>Platformer 2D de level design. Ajude Ealdred Stormblade a escapar da Forbidden Forest, com progressão, obstáculos e leitura de espaço.</p>
-      <p>
-        <a href="https://github.com/Magah051/ealdreds_saga_level_design"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Magah051&repo=ealdreds_saga_level_design&theme=tokyonight&hide_border=true" alt="Ealdred's Saga"></a>
-      </p>
-      <p><a href="https://josemagalhaes.itch.io/ealdred-s-saga">Jogar no itch.io →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Warrior's Awakening</h3>
-      <p>Aventura 2D em Unity. Aric precisa encontrar as 8 tábuas da sabedoria para se tornar um guerreiro — exploração, coleta e progressão de personagem.</p>
-      <p>
-        <a href="https://github.com/Magah051/warriors_awakening_level_design"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Magah051&repo=warriors_awakening_level_design&theme=tokyonight&hide_border=true" alt="Warrior's Awakening"></a>
-      </p>
-      <p><a href="https://josemagalhaes.itch.io/warriors-awakening">Jogar no itch.io →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Fire Ghosts Cave</h3>
-      <p>Platform 2D de caverna. Lucas Darkwood busca o baú de ouro no fim da fase — level design, risco/recompensa e pacing de plataforma.</p>
-      <p>
-        <a href="https://github.com/Magah051/fire_ghosts_caves_level_design"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Magah051&repo=fire_ghosts_caves_level_design&theme=tokyonight&hide_border=true" alt="Fire Ghosts Cave"></a>
-      </p>
-      <p><a href="https://josemagalhaes.itch.io/fire-ghosts-cave">Jogar no itch.io →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Torma RPG</h3>
-      <p>Cena de RPG top-down em Unity. Movimentação, cenário e sistemas base de um RPG 2D — estrutura pronta para expandir combate e quests.</p>
-      <p>
-        <a href="https://github.com/Magah051/TormaRPG_project_with_unity"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Magah051&repo=TormaRPG_project_with_unity&theme=tokyonight&hide_border=true" alt="Torma RPG"></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Pokédex</h3>
-      <p>Front-end com React, Vite e TypeScript consumindo a PokéAPI. Listagem, busca e interface de catálogo — case de UI e integração com API.</p>
-      <p>
-        <a href="https://github.com/Magah051/pokedex_with_react_and_vite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Magah051&repo=pokedex_with_react_and_vite&theme=tokyonight&hide_border=true" alt="Pokédex"></a>
-      </p>
-      <p><a href="https://pokedex-with-react-and-vite.vercel.app">Ver demo →</a></p>
-    </td>
-  </tr>
-</table>
 
 ---
 
