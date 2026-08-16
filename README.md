@@ -8,11 +8,9 @@
   <a href="https://josemagalhaes.itch.io"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io"></a>
 </p>
 
----
-
 <img src="https://raw.githubusercontent.com/Magah051/Magah051/main/assets/computer-illustration.png" alt="Ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-## Sobre
+<h3 align="left">Sobre</h3>
 
 <p align="left">
   Desenvolvedor Unity sênior, com foco em jogos <strong>2D e 3D</strong>: mecânicas de gameplay, sistemas de controle, física, animações e interações em <strong>C#</strong>. Atua do protótipo à entrega, com atenção a arquitetura, performance multiplataforma, testes e documentação de game design (GDD).
@@ -28,9 +26,7 @@
 
 <br clear="both">
 
----
-
-## Stack
+<h3 align="center">Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=unity,cs,unreal,godot,blender,dotnet,html,css,js,ts,react,angular,vue,tailwind,python,nodejs,postgres,mysql,mongodb,firebase,git,figma" alt="Stack">
@@ -47,7 +43,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000" alt="Firebase">
 </p>
 
----
+<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Magah051&style=for-the-badge&color=58a6ff" alt="Profile views">
