@@ -61,3 +61,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000" alt="Firebase">
 </p>
 
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Magah051&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&card_width=800" alt="Linguagens mais usadas">
+</p>
+
