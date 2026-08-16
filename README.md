@@ -10,22 +10,23 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/Magah051/Magah051/main/assets/computer-illustration.png" alt="Ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 ## Sobre
 
-Desenvolvedor Unity sênior, com foco em jogos **2D e 3D**: mecânicas de gameplay, sistemas de controle, física, animações e interações em **C#**. Atua do protótipo à entrega, com atenção a arquitetura, performance multiplataforma, testes e documentação de game design (GDD).
-
-Trabalha com projetos de entretenimento, mobile e gamificação — Unity como ferramenta principal, complementada por Unreal, Godot e prototipagem rápida. Colabora com design, arte, QA e produto.
-
-Também escreve: roteiro, dramaturgia e poesia entram no processo criativo dos jogos.
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Magah051&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Magah051&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas">
+<p align="left">
+  Desenvolvedor Unity sênior, com foco em jogos <strong>2D e 3D</strong>: mecânicas de gameplay, sistemas de controle, física, animações e interações em <strong>C#</strong>. Atua do protótipo à entrega, com atenção a arquitetura, performance multiplataforma, testes e documentação de game design (GDD).
 </p>
+
+<p align="left">
+  Trabalha com projetos de entretenimento, mobile e gamificação — Unity como ferramenta principal, complementada por Unreal, Godot e prototipagem rápida. Colabora com design, arte, QA e produto.
+</p>
+
+<p align="left">
+  Também escreve: roteiro, dramaturgia e poesia entram no processo criativo dos jogos.
+</p>
+
+<br clear="both">
 
 ---
 
